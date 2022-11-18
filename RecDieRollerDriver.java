@@ -1,4 +1,3 @@
-package recDice;
 /**
  * RecDieRollerDriver 
  * @author Jared Rosenberger
