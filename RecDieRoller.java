@@ -1,9 +1,8 @@
-package recDice;
 import java.util.Random;
 /**
  * RecDie Roller
  * @author Jared Rosenberger
- * @version 10/6/22
+ * @version 11/18/22
  * RecDieRoller.java
  * Fall 2022
  */
